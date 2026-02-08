@@ -1,16 +1,16 @@
 # The NothingNew DIY 3D printer
+![Frame](nothingnew.jpg)
 
-
-This still a prototype!
+This is still a prototype!
 
 > [!NOTE]
 > Future plans for this project is to add the Bondtech Indx. It should be a good fit for this frame
 
 ## Some key information the build:
 
-- Build plate 229 x 220 
+- Build plate 220 x 220 
 - 2020 extrusions 
-- 2 x SKR Pico controllerboards (use whatever you have that have enough drivers and can run Klipper)
+- 2 x SKR Pico controller boards (use whatever you have that have enough drivers and can run Klipper)
 - Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
