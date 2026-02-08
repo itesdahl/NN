@@ -20,7 +20,7 @@ This is still a prototype!
 - Triple z steppermotors
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro and CPAP
-- 2 x 240W 24V power supply
+- 1 x 240W 24V power supply
 
 
 ### Cutting extrusions 600/900:
