@@ -1,0 +1,39 @@
+# The NothingNew DIY 3D printer
+
+
+This still a prototype!
+
+> [!NOTE]
+> Future plans for this project is to add the Bondtech Indx. It should be a good fit for this frame
+
+## Some key information the build:
+
+- Build plate 229 x 220 
+- 2020 extrusions 
+- 2 x SKR Pico controllerboards (use whatever you have that have enough drivers and can run Klipper)
+- Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
+- MGN 12H rails/carriage X
+- 10mm rods and bearings on Y 
+- 8mm rods and bearings on Z 
+- Corexy
+- Klipper firmware 
+- Triple z steppermotors
+- Sensorless homing on X and Y 
+- Dragonburner with Sherpa micro and CPAP
+- 2 x 240W 24V power supply
+
+
+### Cutting extrusions 600/900:
+
+- 4x2020 500mm for Z 
+- 8x2020 350mm for X and Y
+
+>[!TIP]
+>Check the frame for squareness and adjust/correct  as needed.
+>Mount the 4 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
+
+# Video part 1
+https://youtu.be/kZbBAxifQg0
+
+
+![CAD model](render2.png)
