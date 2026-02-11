@@ -10,7 +10,7 @@ This is still a prototype!
 
 - Build plate 220 x 220 
 - 2020 extrusions 
-- 2 x SKR Pico controller boards (use whatever you have that have enough drivers and can run Klipper)
+- SKR Pico and SKR 1.4 controller boards (not critical, use whatever you have that have enough drivers and can run Klipper)
 - Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
