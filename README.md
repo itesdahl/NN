@@ -23,10 +23,14 @@ This is still a prototype!
 - 1 x 240W 24V power supply
 
 
-### Cutting extrusions 600/900:
+### Cutting extrusions
 
 - 4x2020 500mm for Z 
 - 8x2020 350mm for X and Y
+
+## Bed assy 220x220 bed size
+- 1x2020 240mm center 
+- 1x2020 220mm front 
 
 >[!TIP]
 >Check the frame for squareness and adjust/correct  as needed.
