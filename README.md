@@ -1,5 +1,5 @@
 # The NN DIY 3D printer
-![Frame](nothingnew.jpg)
+![Frame](nn.jpg)
 
 
 
