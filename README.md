@@ -1,4 +1,4 @@
-# The NothingNew DIY 3D printer
+# The NN DIY 3D printer
 ![Frame](nothingnew.jpg)
 
 
