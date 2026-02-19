@@ -28,7 +28,7 @@
 - 4x2020 500mm for Z 
 - 8x2020 350mm for X and Y
 
-### extrusions for bed assy 220x220
+### Extrusions for the bed assy 220x220
 - 1x2020 240mm center 
 - 1x2020 220mm front 
 
